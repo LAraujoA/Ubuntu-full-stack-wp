@@ -19,7 +19,7 @@ sudo apt update && sudo apt install -y git
 ---
 ### 2- Clonar este repositorio
 ```bash
-git clone https://github.com/LAraujoA/docker-portainer-wordpress-lab.git
+git clone https://github.com/LAraujoA/Ubuntu-full-stack-wp.git
 cd docker-portainer-wordpress-lab
 ```
 ---
